@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-alvezx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-alvezx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=a-alvezx&locale=pt-br&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=a-alvezx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-alvezx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=a-alvezx&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -28,7 +28,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/_.andrealvxz._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -52,8 +52,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/vilanzin">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vilanzin&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/zdlemwj0s8n12xrr01mvmqn2y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zdlemwj0s8n12xrr01mvmqn2y&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
