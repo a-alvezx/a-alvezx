@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Olá, me chamo André 🥸</h1>
+<h1 align="center">Olá, me chamo André 😁</h1>
 
 ###
 
