@@ -51,11 +51,5 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/zdlemwj0s8n12xrr01mvmqn2y">
-    <img src="![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=zdlemwj0s8n12xrr01mvmqn2y)" alt="Spotify recently played"/>
-    
-  </a>
-</div>
 
 ###
